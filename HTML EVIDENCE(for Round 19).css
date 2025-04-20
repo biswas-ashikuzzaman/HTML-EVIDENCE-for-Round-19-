@@ -1,0 +1,8 @@
+input{
+    border-color: goldenrod;
+    margin-left: 10px;
+}
+label{
+    margin-right: 30px;
+    width: 100px;
+}
